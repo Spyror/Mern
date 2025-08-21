@@ -1,0 +1,4 @@
+splice :->
+add,replace
+why indexing strat from zero 
+why array return object type
